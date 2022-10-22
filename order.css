@@ -1,0 +1,41 @@
+body{
+    color: rgba(218, 197, 9, 0.897);
+    background-color: rgb(151, 156, 106);
+}
+
+.img{
+    display: flex; 
+   flex-wrap:wrap;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+}
+
+.add{
+    display:flex ;
+    flex-wrap: wrap;
+}
+
+img{
+    width:400px;
+    height:500px ;
+}
+
+.mg{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sad{
+    width: 300px;
+    height: 600px;
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.com{
+    display: flex;
+    flex-wrap: wrap;
+}
